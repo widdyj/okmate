@@ -1,0 +1,40 @@
+---
+import { CATEGORY_LABELS } from '../content.config';
+
+interface Props {
+  slug: string;
+  title: string;
+  date: string;
+  summary: string;
+  categories: keyof typeof CATEGORY_LABELS;
+  image?: string;
+}
+
+const { slug, title, date, summary, categories, image } = Astro.props;
+
+const formattedDate = new Date(date).toLocaleDateString('en-GB', {
+  day: 'numeric',
+  month: 'short',
+  year: 'numeric',
+});
+---
+
+<article class="card" data-category={categories}>
+  <a href={`/posts/${slug}`} aria-label={title}>
+    <div class="thumb">
+      {
+        image ? (
+          <img src={`/images/${image}`} alt={title} loading="lazy" />
+        ) : (
+          <img src="/images/default-cover.png" alt="" loading="lazy" />
+        )
+      }
+    </div>
+  </a>
+  <div class="body">
+    <span class="tag">{CATEGORY_LABELS[categories]}</span>
+    <h3><a href={`/posts/${slug}`}>{title}</a></h3>
+    <p class="summary">{summary}</p>
+    <div class="meta">{formattedDate}</div>
+  </div>
+</article>

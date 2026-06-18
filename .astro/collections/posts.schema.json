@@ -1,0 +1,36 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "type": "object",
+  "properties": {
+    "title": {
+      "type": "string"
+    },
+    "date": {
+      "type": "string"
+    },
+    "summary": {
+      "type": "string"
+    },
+    "categories": {
+      "type": "string",
+      "enum": [
+        "points-miles",
+        "financial-hacks",
+        "deals",
+        "expat-tips"
+      ]
+    },
+    "image": {
+      "type": "string"
+    },
+    "$schema": {
+      "type": "string"
+    }
+  },
+  "required": [
+    "title",
+    "date",
+    "summary",
+    "categories"
+  ]
+}

@@ -1,0 +1,76 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import ArticleCard from '../components/ArticleCard.astro';
+import { getSortedPosts } from '../lib/posts';
+import { CATEGORIES, CATEGORY_LABELS } from '../content.config';
+
+const posts = await getSortedPosts();
+---
+
+<BaseLayout>
+  <section class="hero">
+    <div class="container">
+      <span class="kicker">Personal finance &middot; The Netherlands</span>
+      <h1>Boring your friends, <span class="accent">padding your wallet.</span></h1>
+      <p>
+        okmate.nl is a casual blog about points, miles, and quietly clever money
+        moves for people living in the Netherlands. If you've ever explained an
+        award redemption to someone whose eyes glazed over &mdash; welcome home.
+      </p>
+    </div>
+  </section>
+
+  <section class="container">
+    <div class="tabs" role="tablist" aria-label="Filter articles by category">
+      <button class="tab active" data-filter="all" type="button">All</button>
+      {
+        CATEGORIES.map((cat) => (
+          <button class="tab" data-filter={cat} type="button">
+            {CATEGORY_LABELS[cat]}
+          </button>
+        ))
+      }
+    </div>
+
+    <div class="section-head">
+      <h2>Latest</h2>
+    </div>
+
+    <div class="grid" id="article-grid">
+      {
+        posts.map((post) => (
+          <ArticleCard
+            slug={post.id}
+            title={post.data.title}
+            date={post.data.date}
+            summary={post.data.summary}
+            categories={post.data.categories}
+            image={post.data.image}
+          />
+        ))
+      }
+    </div>
+    <p class="empty" id="empty-state" hidden>No posts in this category yet. Patience, hacker.</p>
+  </section>
+</BaseLayout>
+
+<script>
+  const tabs = document.querySelectorAll<HTMLButtonElement>('.tab');
+  const cards = document.querySelectorAll<HTMLElement>('#article-grid .card');
+  const empty = document.getElementById('empty-state');
+
+  tabs.forEach((tab) => {
+    tab.addEventListener('click', () => {
+      tabs.forEach((t) => t.classList.remove('active'));
+      tab.classList.add('active');
+      const filter = tab.dataset.filter;
+      let visible = 0;
+      cards.forEach((card) => {
+        const match = filter === 'all' || card.dataset.category === filter;
+        card.style.display = match ? '' : 'none';
+        if (match) visible++;
+      });
+      if (empty) empty.hidden = visible !== 0;
+    });
+  });
+</script>
