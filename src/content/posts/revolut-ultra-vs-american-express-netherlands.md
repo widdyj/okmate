@@ -1,17 +1,17 @@
 ---
-title: "ClassPass, Urban Sports Club or a regular Gym membership?"
+title: "Revolut Ultra vs American Express Netherlands"
 date: "2026-06-22"
-summary: "It's a bit overwhelming, but here's what we know."
+summary: "Two of The Netherland's top tier rewards and benefits cards compared by someone who's used them both."
 categories: "financial-hacks"
 image: "black-friday-nl-analysis.png"
 ---
 
 
-Your article content goes here. Just write normally in Markdown.
+I've been customers of both for quite some time and during
 
-## A Heading
+## An introudction
 
-## Points
+## Collecting and Redeeming Points
 
 Travel
 | Benefit | Notes | Amex Platinum | Revolut |
@@ -22,21 +22,20 @@ Travel
 | Guest accesss | | Free +1 | Discounted €22 passes | 
 
 
-
 ## Insurance
 
-| Benefit | Notes | Amex Platinum | Revolut Ultra |
-| :--- | :--- | :--- | :--- |
-| **Card Spend / Activation Requirement** | Does the trip need to be purchased with the card to activate coverage? | **Broad Coverage:** Core medical and cancellation coverage applies automatically without needing to buy the trip on the card, though card activation is mandatory. | **Strictly Mandatory:** Trips and bookings must be paid for directly using your Revolut account/card to trigger coverage. |
-| **Emergency Medical Expenses** | Limit for emergency medical treatment and evacuation abroad. | **Up to €3,000,000** per trip. (€100 excess applies per claim). | **Up to €10,000,000** per trip. Urgent dental up to €300. (10% deductible up to a max of €50). |
-| **Trip Cancellation (Insured Reason)** | Reimbursable non-refundable costs if you cancel due to sudden illness, death, or redundancy. | **Up to €10,000** per person, per trip. (€100 excess applies). | **Up to €5,000** per claim and annually. (€50 excess applies). |
-| **Cancel For Any Reason (CFAR)** | Reimbursement if you cancel a trip purely because you changed your mind. | **Not Covered.** You must have a strictly defined, validated medical or emergency reason. | **Covered up to 70%** of non-refundable costs. Max €2,500 per claim and up to €5,000 annually (30% deductible). |
-| **Personal Baggage / Electronics** | Coverage for personal belongings stolen, lost, or damaged during a trip. | **Up to €3,000** per trip. (€100 excess applies). | **Up to €1,500** total value cover per trip (includes electronics). |
-| **Flight or Travel Delay** | Compensation if your flight or transit is delayed by 4+ hours. | **Up to €200** per claim after a 4-hour departure delay. | **€70 per hour** after a 4-hour delay, capped at a maximum of **€350**. |
-| **Baggage Delay** | Compensation to buy emergency essentials if your bags are delayed by the carrier. | **Up to €400** per claim after a 4-hour luggage arrival delay. | **Up to €400** total reimbursement for essentials (receipts required). |
-| **Car Rental Insurance (CDW / Excess)** | Collision Damage Waiver and excess protection for hire cars. | **Premium Coverage:** Up to **€75,000** for damage/theft + up to **€750,000** in third-party liability cover. Bypasses the need for rental agency upcharges. | **Excess Only:** Covers up to **€2,000** to reimburse the rental provider's deductibles or damage liability fees. |
-| **Personal Liability Cover** | Legal liability if you accidentally injure a third party or damage their property abroad. | **Included** up to standard group policy liability caps. | **Up to €1,000,000** in personal liability coverage. |
-| **Maximum Duration Per Trip** | Limit on consecutive travel days covered per individual holiday. | **90 consecutive days** per trip. | **90 consecutive days** per trip. |
+| Benefit | Notes | Amex Platinum | Revolut Ultra | Winner |
+| :--- | :--- | :--- | :--- | :--- |
+| **Card Spend Required** | Must trip be bought on card to trigger policy? | Yes | Yes | **Tie** |
+| **Emergency Medical** | Worldwide emergency limit and excess. | €3,000,000 (€100 excess) | --€10,000,000 (10% up to €50)-- | **Revolut Ultra** |
+| **Trip Cancellation** | Standard emergency cancellation cap. | --€10,000 per person-- | €5,000 per year | **Amex Platinum** |
+| **Cancel For Any Reason** | Voluntarily skipping a trip out of personal choice. | No | --Yes (70% refund, max €2,500)-- | **Revolut Ultra** |
+| **Baggage & Belongings** | Reimbursement for lost/stolen gear. | €3,000 | €1,500 | **Amex Platinum** |
+| **Flight Delay** | Payout terms after a 4+ hour delay | €200 flat | --€100 per hour (max €500)-- | **Revolut Ultra** |
+| **Baggage Delay** | Buying emergency essentials after 4+ hours. | €400 | --€400-- | **Tie** |
+| **Car Rental Insurance** | Vehicle theft, collision damage, or deductibles. | --Full CDW (up to €75,000)-- | Excess protection only (up to €2,000) | **Amex Platinum** |
+| **Personal Liability** | Legal cover for accidental damage to 3P's | Included | €1,000,000 | **Tie** |
+| **Max Trip Length** | Consecutive days per trip. | 90 days | 90 days | **Tie** |
 
 ## Another Heading
 
