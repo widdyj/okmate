@@ -1,31 +1,16 @@
 :root {
-  --orange: #ff6b35;
-  --orange-soft: #ff8b5e;
-
-  --bg: #ffffff;
-  --bg-subtle: #f7f6f3;
-  --card: #ffffff;
-  --border: #e7e4dd;
-  --text: #1a1814;
-  --text-muted: #6b665d;
-  --shadow: 0 1px 2px rgba(26, 24, 20, 0.04), 0 8px 24px rgba(26, 24, 20, 0.06);
-
-  --font-heading: 'Playfair Display', Georgia, serif;
-  --font-body: 'Inter', system-ui, -apple-system, sans-serif;
-
-  --maxw: 1080px;
-}
-
-@media (prefers-color-scheme: dark) {
-  :root {
-    --bg: #14120f;
-    --bg-subtle: #1c1916;
-    --card: #1c1916;
-    --border: #322d27;
-    --text: #f3efe7;
-    --text-muted: #a39c8f;
-    --shadow: 0 1px 2px rgba(0, 0, 0, 0.3), 0 8px 24px rgba(0, 0, 0, 0.35);
-  }
+    --orange: #FF8552;
+    --orange-soft: #FF8552;
+    --bg: #E6E6E6;
+    --bg-subtle: #f7f6f3;
+    --card: #ffffff;
+    --border: #e7e4dd;
+    --text: #1a1814;
+    --text-muted: #39393A;
+    --shadow: 0 1px 2px rgba(26, 24, 20, .04), 0 8px 24px rgba(26, 24, 20, .06);
+    --font-heading: "Playfair Display", Georgia, serif;
+    --font-body: "Inter", system-ui, -apple-system, sans-serif;
+    --maxw: 1080px
 }
 
 * {
