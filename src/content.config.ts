@@ -3,16 +3,16 @@ import { glob } from 'astro/loaders';
 
 export const CATEGORIES = [
   'points-miles',
-  'financial-hacks',
+  'personal-finance',
   'deals',
-  'expat-tips',
+  'general-tips',
 ] as const;
 
 export const CATEGORY_LABELS: Record<(typeof CATEGORIES)[number], string> = {
   'points-miles': 'Points & Miles',
-  'financial-hacks': 'Financial Hacks',
+  'personal-finance': 'Personal Finance',
   deals: 'Deals',
-  'expat-tips': 'Expat Tips',
+  'general-tips': 'General Tips',
 };
 
 const posts = defineCollection({

@@ -15,9 +15,9 @@
       "type": "string",
       "enum": [
         "points-miles",
-        "financial-hacks",
+        "personal-finance",
         "deals",
-        "expat-tips"
+        "general-tips"
       ]
     },
     "image": {

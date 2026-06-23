@@ -2,7 +2,7 @@
 title: "Revolut Ultra vs American Express Netherlands"
 date: "2026-06-23"
 summary: "Two of The Netherland's top tier rewards and benefits cards compared by someone who's used them both."
-categories: "financial-hacks"
+categories: "personal-finance"
 image: "black-friday-nl-analysis.png"
 ---
 

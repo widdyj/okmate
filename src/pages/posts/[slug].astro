@@ -27,7 +27,7 @@ const formattedDate = new Date(date).toLocaleDateString('en-GB', {
 <BaseLayout title={`${title} — okmate.nl`} description={summary}>
   <article>
     <div class="container post-hero">
-      <a href={`/category/${categories}`} class="back-link">&larr; {CATEGORY_LABELS[categories]}</a>
+      <a href={`/category/${categories}`} class="back-link">&larr; See more</a>
       <span class="tag">{CATEGORY_LABELS[categories]}</span>
       <h1>{title}</h1>
       <p class="meta">{formattedDate}</p>
