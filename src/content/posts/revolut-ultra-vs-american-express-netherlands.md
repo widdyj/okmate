@@ -36,6 +36,17 @@ The only area Amex Platinum clearly comes out on top is travel benefits, specifi
 
 > If you want to try out Revolut with over 75 million users, you can return the favour of me breaking this down for you by signing up through my referral link [here](https://revolut.com/referral/?referral-code=jack3pz7t!JUN1-26-AR-TR-TRNLMODEL-L1&geo-redirect).
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7716561967301995"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-7716561967301995"
+     data-ad-slot="2921601404"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 ## Collecting and Redeeming Points
 With both cards, expenditure per euro = collect points.
@@ -92,7 +103,17 @@ I often travel with someone and use the Airport Lounges which saves us combined 
 I need to figure out if the other benefits outweigh the cost of having to ask my companion to pay for their own entry. 
 **The winner for me: Amex Platinum**
 
-
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7716561967301995"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-7716561967301995"
+     data-ad-slot="2921601404"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 ## Lifestyle Benefits
 The winner of this totally depends on your lifestyle. Again, this is a big part of the membership cost so figure out what makes sense to your lifestyle.
@@ -141,7 +162,17 @@ Based on my lifestyle, I can't draw a winner because you never know when you'll 
 *[Revolut Travel Insurance Details](https://www.xcover.com/nl/pds/revolut-ultra-eu-v2)*
 [Amex Platinum Insurance details](https://www.americanexpress.com/nl/service/verzekeringen/platinum-card/)*
 
-
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7716561967301995"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-7716561967301995"
+     data-ad-slot="2921601404"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 ## Card Acceptance
 It's true. American Express cards are not accepted everywhere in The Netherlands where payment by card is accepted, or a lot of other countries I've visited in fact. Sometimes I'm forced to pay with a Visa or Mastercard credit card. However this also goes for credit cards in general, some merchants only accept debit cards. Well - **Revolut uses Visa or Mastercard debit cards** and I've had significantly less rejections paying with it that I have my Amex.
@@ -204,3 +235,15 @@ These are my numbers based on how I actually live. Your mileage will vary — if
 
 ## Make your own decision
 I can't stress this enough.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7716561967301995"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-7716561967301995"
+     data-ad-slot="2921601404"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
