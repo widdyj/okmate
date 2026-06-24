@@ -19,6 +19,7 @@ I've been customers of both American Express (Platinum) and Revolut for quite so
 ## The results for me
 I side-by-side compared the benefits by category, which there is a lot of with both products so it took some time to try and understand what I actually need. You can click directly on the categories below to see the breakdowns I found out. 
 
+
 | Category | Summary | Winner |
 | --- | --- | --- |
 | [**Points & Redemption**](#collecting-and-redeeming-points) | Revolut converts to airline points at twice the rate of Amex | 🥇 Revolut Ultra |
@@ -29,6 +30,8 @@ I side-by-side compared the benefits by category, which there is a lot of with b
 | [**Purchase Protection**](#purchase-protection) | Received purchases have much stronger protection with Revolut | 🥇 Revolut Ultra |
 | [**Net Annual Savings**](#the-cost--savings) | €639.99 saved with Revolut vs €75 with Amex based on my usage | 🥇 Revolut Ultra |
 | **Overall winner for me** | | 🏆 Revolut Ultra |
+
+
 
 **Revolut Ultra wins five out of seven categories for me and saves me nearly €640 a year in the process.** 
 
@@ -54,6 +57,7 @@ With both cards, expenditure per euro = collect points.
 **American Express Platinum payments collect Membership Reward points.</br>Revolut Ultra payments collect RevPoints.**
 
 Both points can be exchanged to take money off a transaction you're making online, or redeemed to spend at variety of partners. I mostly use my points to exchange for partner airline loyalty scheme points to either purchase a last minute ticket or upgrade an existing flight. Again, this is a whole other article plenty of others have covered. Figure out what makes sense to you to spend them on. I'm focusing on exchanging reward points to airline reward schemes.
+<div class="table-wrap">
 
 | Benefit | Notes | Amex MR | RevPoints | Winner |
 | --- | --- | --- | --- | --- |
@@ -62,6 +66,8 @@ Both points can be exchanged to take money off a transaction you're making onlin
 | Exchange points | **1 British Airways avios =** | 1.25 | 1 | **Revolut Ultra** |
 | Exchange points | **1 Delta Sky Mile =** | 3 | 1 | **Revolut Ultra** |
 | Exchange points | **1 Cathay Pacific Asia Mile =** | 3 | 1 | **Revolut Ultra** |
+
+</div>
 
 To understand the value here: let's say I want to take a direct flight to KIX (Osaka, Japan) with KLM which a quick look on [seats.aero](https://seats.aero) costs 30k Flying Blue points (+€184 tax).
 
@@ -85,6 +91,8 @@ BUT - Revolut does instead cash rewards for friends referrals and I've seen amou
 ## Travel Benefits
 The winner of this totally depends on your travel regularity but I've realised it's a big part of the membership cost so I needed to be sure if one of these packages are worth it at all.
 
+<div class="table-wrap">
+
 | Benefit | Notes | Amex Platinum | Revolut Ultra | Winner |
 | :--- | :--- | :--- | :--- | :--- |
 | **Lounge access** | Unlimited access | Priority Pass | Lounge Key | **Amex**
@@ -94,6 +102,8 @@ The winner of this totally depends on your travel regularity but I've realised i
 | **Airport Fast Track** | In other airports | ❌ | 100+ airports | **Revolut**
 | **Hotel status** | Upgrades etc.. | Hilton, Marriot etc. | ❌ | **Revolut**
 | **eSim Data** | To use globally | ❌ | 5GB p/mo | **Revolut**
+
+</div>
 
 I often travel with someone and use the Airport Lounges which saves us combined a lot of money on food and drink and is lot more relaxing way to enjoy passing the time whilst being at the airport. On average I use lounges with someone about 15+ times a year. Also included with Amex Platinum is Privium at Schiphol, iykyk it can be worth it if you can use it.
 
@@ -118,6 +128,8 @@ I need to figure out if the other benefits outweigh the cost of having to ask my
 ## Lifestyle Benefits
 The winner of this totally depends on your lifestyle. Again, this is a big part of the membership cost so figure out what makes sense to your lifestyle.
 
+<div class="table-wrap">
+
 | Benefit | Notes | Amex Platinum | Revolut Ultra | Winner |
 | :--- | :--- | :--- | :--- | :--- |
 | **Gym Access** | Through a 3p scheme | ❌ | Classpass 20creds p/mo | **Revolut**
@@ -125,6 +137,8 @@ The winner of this totally depends on your lifestyle. Again, this is a big part 
 | **App Subscriptions** | Premium level | ❌ | NordVPN, Duolingo, Masterclass, Headspace, + 14 more | **Revolut**
 | **We Work** | Work from an office | ❌ | 3 visits p/mo | **Revolut**
 | **Exclusive pre-sales** | Or event benefits | Some | ❌ | **Revolut**
+
+</div>
 
 My scenario with **Revolut Ultra:** I pay for Super Duolingo (€122,99p/yr), a VPN (€77p/yr), ClassPass (€360p/yr for 20 extra creds), working in coffee shops home/abroad (€35 a month/can use We Work instead) so **this saves me €919,99**.
 
@@ -140,6 +154,7 @@ There we have it. The extra money I spend on guest passes for lounges is recoupe
 ## Travel Insurance
 
 This is extremely high level. It's incredibly important you read the conditions for yourself including exclusions and whether the insurance is suitable for you. Again, this is what I personally would be eligible for so it's used for personal comparison rather than actual advice to others.
+<div class="table-wrap">
 
 | Benefit | Notes | Amex Platinum | Revolut Ultra | Winner |
 | :--- | :--- | :--- | :--- | :--- |
@@ -154,6 +169,8 @@ This is extremely high level. It's incredibly important you read the conditions 
 | **Car Rental Insurance** | Vehicle theft, collision damage, or deductibles. | **Full CDW (up to €75,000)** | Excess protection only (up to €2,000) | **Amex Platinum** |
 | **Personal Liability** | Legal cover for accidental damage to 3P's | ❌ | €1,000,000 | **Tie** |
 | **Max Trip Length** | Consecutive days per trip. | 90 days | 90 days | **Tie** |
+
+</div>
 
 **The winner for me: Tie - but if I had to choose - Amex Platinum**
 
@@ -183,6 +200,7 @@ Remember: Everytime you can't use it, you don't get your points. On to that...
 
 ## Purchase protection
 You need to value the fundamental differences between a credit card and debit card transation when considering "Purchase Protection". This is strictly based on protection of purchases you have already received. Not if you make a purchase and didn't receive it.
+<div class="table-wrap">
 
 | Benefit | Notes | Amex Platinum | Revolut Ultra | Winner |
 | :--- | :--- | :--- | :--- | :--- |
@@ -192,6 +210,8 @@ You need to value the fundamental differences between a credit card and debit ca
 | **Minimum Item Value** | Lowest purchase price to qualify | None | €50 ⚠️ | **Amex Platinum** |
 | **Refund Protection** | If a store rejects a return within 90 days | Up to €400 | Up to €300 | **Amex Platinum** |
 | **Ticket Cancellation** | Miss a gig/event due to illness or transit delays | ❌ | Up to €1,000 | **Revolut Ultra** |
+
+</div>
 
 My scenario: I rarely break or lose new gear, but the ticket cancellation protection is a huge bonus if you regularly book concerts or festivals in Europe and hit a sudden scheduling conflict or travel delay.
 
@@ -209,18 +229,26 @@ Smashing a €3k laptop with Revolut Ultra = Covered in full**
 ## The cost & savings
 The winner in cost can only be determined by the value of the proposition to your lifestyle. You need to do your own calculation to see if it makes sense for you. Which for now you can see is different between the two.
 
+
+
 | Term | Notes | Amex Platinum | Revolut Ultra |
 | --- | --- | --- | --- |
 | **Per month** | If you pay monthly | €65 | €55 p/mo (3 months ) / then €65 p/mo |
 | **Annual cost** | If you pay all at once | €780 | €650 |
 
+
+
 My annual card, lifestyle and travel costs minus the savings I get from them from what I actually use.
+
+
 | Term | Notes | Amex Platinum | Revolut Ultra |
 | --- | --- | --- | --- |
 | **Annual card fee** | Paid annually | +€780 | +€650 |
 | **Travel net saving** | 15 guest lounge passes | -€555 | +€330 |
 | **Lifestyle net saving** | Benefits I actually use | -€300 | -€619.99 |
 | **Net annual saving** | Based on my usage | **€75** | **€639.99** |
+
+
 
 **The winner for me: Revolut Ultra**
 I worked out the real cost of each card by starting with the annual fee, then adding or subtracting what I'd actually spend or save based on my lifestyle.
