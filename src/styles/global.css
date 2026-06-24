@@ -78,22 +78,27 @@ img {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  height: 64px;
+  min-height: 64px;
+  padding: 0.75rem 1.25rem;
+  gap: 1rem;
 }
 .logo {
   font-family: var(--font-heading);
   font-weight: 800;
   font-size: 1.4rem;
   letter-spacing: -0.02em;
+  flex-shrink: 0;
 }
 .logo .dot {
   color: var(--orange);
 }
 .nav {
   display: flex;
-  gap: 1.5rem;
-  font-size: 0.95rem;
+  flex-wrap: wrap;
+  gap: 0.75rem 1.25rem;
+  font-size: 0.85rem;
   font-weight: 500;
+  justify-content: flex-end;
 }
 .nav a {
   color: var(--text-muted);
@@ -101,6 +106,19 @@ img {
 }
 .nav a:hover {
   color: var(--orange);
+}
+
+@media (max-width: 640px) {
+  .site-header .inner {
+    gap: 0.5rem;
+  }
+  .logo {
+    font-size: 1.1rem;
+  }
+  .nav {
+    gap: 0.5rem 0.75rem;
+    font-size: 0.75rem;
+  }
 }
 
 /* Footer */
@@ -275,6 +293,20 @@ img {
   font-size: 0.95rem;
   margin-top: 0.75rem;
 }
+.post-hero-inner {
+  max-width: 720px;
+  margin: 0 auto;
+  width: 100%;
+}
+@media (max-width: 640px) {
+  .post-hero {
+    padding-left: 1.25rem;
+    padding-right: 1.25rem;
+  }
+  .post-hero h1 {
+    font-size: 1.8rem;
+  }
+}
 .post-cover {
   border-radius: 14px;
   overflow: hidden;
@@ -287,7 +319,6 @@ img {
   height: 100%;
   object-fit: cover;
 }
-
 .prose {
   max-width: 720px;
   margin: 2.5rem auto 0;
@@ -350,7 +381,6 @@ img {
 .prose th {
   background: var(--bg-subtle);
 }
-
 .back-link {
   display: inline-flex;
   align-items: center;
@@ -377,6 +407,12 @@ img {
   font-size: 1.25rem;
   color: var(--text-muted);
   margin-bottom: 2rem;
+}
+
+.about a {
+  color: var(--orange);
+  text-decoration: underline;
+  text-underline-offset: 2px;
 }
 
 .empty {

@@ -26,19 +26,21 @@ const formattedDate = new Date(date).toLocaleDateString('en-GB', {
 
 <BaseLayout title={`${title} — okmate.nl`} description={summary}>
   <article>
-    <div class="container post-hero">
-      <a href={`/category/${categories}`} class="back-link">&larr; See more</a>
-      <span class="tag">{CATEGORY_LABELS[categories]}</span>
-      <h1>{title}</h1>
-      <p class="meta">{formattedDate}</p>
-      {
-        image && (
-          <div class="post-cover">
-            <img src={`/images/${image}`} alt={title} />
-          </div>
-        )
-      }
-    </div>
+<div class="container post-hero">
+  <div class="post-hero-inner">
+    <a href={`/category/${categories}`} class="back-link">&larr; See more</a>
+    <span class="tag">{CATEGORY_LABELS[categories]}</span>
+    <h1>{title}</h1>
+    <p class="meta">{formattedDate}</p>
+    {
+      image && (
+        <div class="post-cover">
+          <img src={`/images/${image}`} alt={title} />
+        </div>
+      )
+    }
+  </div>
+</div>
 
     <div class="container">
       <div class="prose">
