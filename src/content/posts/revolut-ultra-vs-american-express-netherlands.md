@@ -275,3 +275,36 @@ I can't stress this enough.
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Revolut Ultra vs American Express Netherlands",
+  "description": "A hands-on comparison of Revolut Ultra and American Express Platinum cards in the Netherlands, written for those looking to maximise points, travel perks, and everyday savings.",
+  "image": [
+    "https://okmate.nl/images/revolut-ultra-vs-american-express-netherlands.png"
+  ],
+  "datePublished": "2026-06-23T08:00:00+02:00",
+  "dateModified": "2026-06-23T08:00:00+02:00",
+  "author": {
+    "@type": "Person",
+    "name": "Jack",
+    "url": "https://okmate.nl/about"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "okmate.nl",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://okmate.nl/icon.svg"
+    }
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://okmate.nl/posts/revolut-ultra-vs-american-express-netherlands"
+  },
+  "inLanguage": "en-GB",
+  "keywords": "best credit card netherlands, flying blue points netherlands, revolut ultra, american express platinum netherlands, personal finance netherlands, revolut vs amex, points schemes netherlands, best cards for lounge acesss, maximise points in netherlands"
+}
+</script>
